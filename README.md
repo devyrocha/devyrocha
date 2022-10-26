@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/yuri-rocha-17ba51131/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yuri-rocha-17ba51131/">
+  <a href="https://www.instagram.com/_yrochaa/">
     <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
