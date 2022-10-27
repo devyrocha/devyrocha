@@ -8,8 +8,7 @@
 - 💻 Estudante e Estagiário de Front End
 - 🌱 Estudando: Vuejs e seus frameworks
 - 😄 Pronome: ele/dele
-- ❤️ I love tecnology and coffee
-- 🎵 I do everything listening to lofi music
+- ❤️ Tecnologia e Café
 
 ### GitHub status
 <div align="center">
