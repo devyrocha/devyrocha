@@ -5,8 +5,8 @@
 ### Sobre mim
 - 🔭 Atualmente trabalho com Front-End
 - 🖥️ Estudando: Análise e desenvolvimento de Sistemas - 3/4
-- 💻 Estudante e Estagiário de Front End
-- 🌱 Estudando: Vuejs e seus frameworks
+- 💻 Estagiário de Front End
+- 🌱 Melhor dominio Javascript e seus frameworks
 - 😄 Pronome: ele/dele
 - ❤️ Tecnologia e Café
 
