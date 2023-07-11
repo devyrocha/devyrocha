@@ -3,9 +3,9 @@
 ## 👋 Hello World! Eu sou Yuri Rocha
 
 ### Sobre mim
-- 🔭 Atualmente trabalho com Front-End
-- 🖥️ Estudando: Análise e desenvolvimento de Sistemas - 3/4
-- 💻 Estagiário de Front End
+- 🔭 Atualmente trabalho com Test SW
+- 🖥️ Estudando: Análise e desenvolvimento de Sistemas - /4
+- 💻 Estagiário de Tester SW
 - 🌱 Melhor dominio Javascript e seus frameworks
 - 😄 Pronome: ele/dele
 - ❤️ Tecnologia e Café
